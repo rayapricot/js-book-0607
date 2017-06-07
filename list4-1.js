@@ -5,4 +5,3 @@ function sum() {
     }
 
     window.alert(total);
-}
